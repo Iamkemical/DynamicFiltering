@@ -1,0 +1,16 @@
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\bin\Debug\net5.0\DelegateQuery.exe
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\bin\Debug\net5.0\DelegateQuery.deps.json
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\bin\Debug\net5.0\DelegateQuery.runtimeconfig.json
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\bin\Debug\net5.0\DelegateQuery.runtimeconfig.dev.json
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\bin\Debug\net5.0\DelegateQuery.dll
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\bin\Debug\net5.0\ref\DelegateQuery.dll
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\bin\Debug\net5.0\DelegateQuery.pdb
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\DelegateQuery.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\DelegateQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\DelegateQuery.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\DelegateQuery.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\DelegateQuery.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\DelegateQuery.dll
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\ref\DelegateQuery.dll
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\DelegateQuery.pdb
+C:\Users\Thinkpad\source\repos\DelegateQuery\DelegateQuery\obj\Debug\net5.0\DelegateQuery.genruntimeconfig.cache
